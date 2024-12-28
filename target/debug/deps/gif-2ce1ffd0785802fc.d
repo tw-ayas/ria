@@ -1,0 +1,11 @@
+/Users/ayash.twayana/Rust/ria/target/debug/deps/libgif-2ce1ffd0785802fc.rmeta: /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/lib.rs /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/traits.rs /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/common.rs /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/mod.rs /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/decoder.rs /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/encoder.rs /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/../README.md
+
+/Users/ayash.twayana/Rust/ria/target/debug/deps/gif-2ce1ffd0785802fc.d: /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/lib.rs /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/traits.rs /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/common.rs /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/mod.rs /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/decoder.rs /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/encoder.rs /Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/../README.md
+
+/Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/lib.rs:
+/Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/traits.rs:
+/Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/common.rs:
+/Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/mod.rs:
+/Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/decoder.rs:
+/Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/encoder.rs:
+/Users/ayash.twayana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/../README.md:

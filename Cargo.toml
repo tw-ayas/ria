@@ -25,4 +25,5 @@ members = [
     "ch12/ch12-basic-handler",
     "ch12/ch12-fn-ptr-demo-2",
     "ch12/ch12-sjlj",
-]
+    "chapter-1/hello"
+, "chapter-1/penguin", "chapter-1/dangling-pointer", "chapter-1/data-race", "chapter-1/buffer-overflow", "chapter-1/iterator-modification", "chapter-2/compile", "chapter-2/integer-add", "chapter-2/increment", "chapter-2/pattern-match", "chapter-2/mandelbrot", "chapter-2/lifetime", "chapter-2/generic", "chapter-2/grep-lite", "chapter-2/array-vector"]
